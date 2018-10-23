@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "jhipsterSecondSampleApplication",
+    "packageName": "org.agentix.application",
+    "packageFolder": "org/agentix/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NzQ0OTQ3M2JhMWIyZjc5YWQyN2U4NzU3Y2Q1YzkyOGNlZGY3NjllNmM4NzY0MjRjMjE1YmE3YjkxNGE0YTUzMTlmNzRhOWI5NWMwMmQ1ZDQ3N2UyY2FmZWUyODExYjY1YTIzZjhkZDkwYzJmZmM0NGRjYWQ5ZGNlNDFkYTJmZmI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "agentix",
+  "repository-name": "jhipster-second-sample-application"
+}
